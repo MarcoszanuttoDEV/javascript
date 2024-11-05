@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.todos{
+    display: flex;
+    
+}
+.todas{
+    display: flex;
+    
+}
+
+.container-fluid2{
+    cursor: pointer;
+}
+.tod{
+    display: flex;
+}
